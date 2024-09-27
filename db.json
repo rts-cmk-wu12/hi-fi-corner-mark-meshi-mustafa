@@ -2,13 +2,13 @@
     "products": [
         {
             "id": "1",
-            "name": "Yamaha R-N803 Network HiFi Receiver",
-            "img": "Assets/img/Produktbilleder/cd_afspillere/creek_classic_cd.jpg",
-            "brandname": "Yamaha",
-            "category": "Receivers",
-            "sub-category": "Network HiFi",
-            "description": "The Yamaha R-N803 is a versatile network receiver that combines high-quality audio with streaming capabilities. It features a robust amplifier, built-in Wi-Fi, and Bluetooth connectivity, allowing users to enjoy their favorite music from various sources.",
-            "Price": "£329.00"
+            "name": "Marantz PM6007 Integrated Amplifier Digital Connectivity",
+            "img": "Assets/img/marantz-removebg-preview.png",
+            "brandname": "Marantz",
+            "category": "Amplifier",
+            "sub-category": "Amplifier HiFi",
+            "description": "PM6007 delivers Marantz's most musical sound and is an ideal choice for those ready to take the next step in their 2-channel Hi-Fi system. Powered by a Toroidal power transformer and customized block capacitors, the PM6007 integrated amplifier delivers 45 watts (8ohm, 20Hz-20kHz) of power-per-channel. You can easily connect both analogue and digital sources or connect your turntable to the built-in phono pre-amplifier. Listen to your favourite Hi-Res audio content through the 192-kHz/24-bit D/A converter and experience enhanced bass with a subwoofer-out option.",
+            "Price": "£800"
         },
         {
             "id": "2",

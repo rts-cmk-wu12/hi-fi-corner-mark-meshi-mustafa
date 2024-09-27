@@ -259,6 +259,12 @@ header {
 .product-card h2 {
     font-size: 1.5em;
     margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.product-card a {
+    color: #000;
+    text-decoration: none;
 }
 
 .product-card p {

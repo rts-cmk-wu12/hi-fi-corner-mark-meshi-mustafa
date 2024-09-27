@@ -17,7 +17,8 @@ function displayProducts(products) {
 
         productCard.innerHTML = `
             <img src="${product.img}" alt="${product.name}">
-            <h2>${product.name}</h2>
+             <a href="/single.html"><h2>${product.name}</h2></a>
+
             <p><strong>Price:</strong> ${product.Price}</p>
         `;
 
